@@ -2,4 +2,4 @@
 
 to be added soon
 
-![logo](https://user-images.githubusercontent.com/84878752/224775822-8c0d2971-9fe5-458f-b243-fb9d3bdf9bda.png)
+![logo_40](https://user-images.githubusercontent.com/84878752/224785497-60c3ef3c-f341-4485-8194-dcfae28c8bd3.png)
