@@ -1,4 +1,4 @@
-# altiro3D: Multiview image and video conversion for light-field displays
+# altiro3D: Image and video conversion library for free-view LCD devices
 
 to be added soon
 
