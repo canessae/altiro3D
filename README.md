@@ -25,9 +25,7 @@ To uninstall
 
 -------------------------------------------------
 
-file:///opt/altiro3D/bin/examples/sample2.jpg
-
-file:///opt/altiro3D/bin/examples/1-native-Photo-MiDaS-small/2d-native_sample2-g-k.png
+![sample2-red](https://user-images.githubusercontent.com/84878752/226051695-43a4dee3-2d10-4029-bcbb-ea4757658e72.jpg)
 
 ![2a-sample2-video](https://user-images.githubusercontent.com/84878752/226045600-1ccf40d2-79ad-4755-b818-ee9b7748bcf1.gif)
 
