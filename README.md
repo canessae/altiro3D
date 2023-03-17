@@ -30,6 +30,13 @@ Set the path to the working directory
 3D Photo
 
 ![2b-native_sample2-g](https://user-images.githubusercontent.com/84878752/226053973-53c25d4a-4bfc-4b2f-a2a0-85cabfae1229.png)
+
+
+<picture>
+  <img alt="3D Photo" src="https://user-images.githubusercontent.com/84878752/226053973-53c25d4a-4bfc-4b2f-a2a0-85cabfae1229.png" width="500" height="600">
+</picture>
+
+
 -------------------------------------------------
 
 ![logo_40](https://user-images.githubusercontent.com/84878752/224785497-60c3ef3c-f341-4485-8194-dcfae28c8bd3.png)
