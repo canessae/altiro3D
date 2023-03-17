@@ -7,18 +7,16 @@ light-field (or Native) image.
 To install altiro3D in "/opt", usage, info, etc. see "User's Manual". In short 
 
 	sudo dpkg -i altiro3D-x.x.x-Linux.deb
-
 It is necessary to set the path to the working directory before the altiro3D
 commands can be used. Type:
 
 	cd /opt/altiro3D/bin/
 	source setupvars.sh	
-
 which defines
+
 	INSTALLDIR=”/opt/altiro3D”
 	export PATH=$INSTALLDIR/bin:${PATH}
 	export LD LIBRARY PATH=$INSTALLDIR/lib:${LD LIBRARY PATH}
-	
 -------------------------------------------------
 To uninstall, type
 	sudo dpkg -r altiro3D
