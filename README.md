@@ -5,8 +5,7 @@ single imagine (e.g., .png, .jpg) or flat video (e.g., .mp4). This is done gener
 light-field (or Native) image.
 
 To install altiro3D in "/opt", usage, info, etc. see "User's Manual". In short 
-
-	sudo dpkg -i altiro3D-x.x.x-Linux.deb
+		sudo dpkg -i altiro3D-x.x.x-Linux.deb
 It is necessary to set the path to the working directory before the altiro3D
 commands can be used. Type:
 
