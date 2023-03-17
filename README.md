@@ -4,7 +4,7 @@ altiro3D is a free, extended C++ Library developed to reconstruct reality from a
 single imagine (e.g., .png, .jpg) or flat video (e.g., .mp4). This is done generating a
 light-field (or Native) image --see "User's Manual"
 
-Install
+## Install
 
 		sudo dpkg -i altiro3D-x.x.x-Linux.deb
 
@@ -12,13 +12,13 @@ Set the path to the working directory
 
 		source /opt/altiro3D/bin/setupvars.sh
 
-Run examples
+## Run examples
 		cd /opt/altiro3D/bin/examples
 then
 		./run_examples-1.sh
 		./run examples-2.sh ...
 
-To uninstall
+## Uninstall
 
 		sudo dpkg -r altiro3D
 
