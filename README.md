@@ -20,23 +20,15 @@ which defines
 	export LD LIBRARY PATH=$INSTALLDIR/lib:${LD LIBRARY PATH}
 	
 -------------------------------------------------
-
 To uninstall, type
-
 	sudo dpkg -r altiro3D
-
 -------------------------------------------------
-
 Run examples
-
 	cd /opt/altiro3D/bin/examples
-
 then
-
 	./run_examples-1.sh
 	./run examples-2.sh
 	      ... 
-
 -------------------------------------------------
 
 file:///opt/altiro3D/bin/examples/sample2.jpg
@@ -44,10 +36,6 @@ file:///opt/altiro3D/bin/examples/sample2.jpg
 file:///opt/altiro3D/bin/examples/1-native-Photo-MiDaS-small/2d-native_sample2-g-k.png
 
 ![2a-sample2-video](https://user-images.githubusercontent.com/84878752/226045600-1ccf40d2-79ad-4755-b818-ee9b7748bcf1.gif)
-
-
-
-
 
 -------------------------------------------------
 
