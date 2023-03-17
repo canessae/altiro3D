@@ -24,11 +24,10 @@ To uninstall
 		sudo dpkg -r altiro3D
 
 -------------------------------------------------
+![sample2-red](https://user-images.githubusercontent.com/84878752/226052585-650fcb74-323f-491d-84d1-9f771430f069.jpg)
 
-![sample2-red](https://user-images.githubusercontent.com/84878752/226051695-43a4dee3-2d10-4029-bcbb-ea4757658e72.jpg)
 
 ![2a-sample2-video](https://user-images.githubusercontent.com/84878752/226045600-1ccf40d2-79ad-4755-b818-ee9b7748bcf1.gif)
-
 -------------------------------------------------
 
 ![logo_40](https://user-images.githubusercontent.com/84878752/224785497-60c3ef3c-f341-4485-8194-dcfae28c8bd3.png)
