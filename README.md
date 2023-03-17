@@ -11,12 +11,7 @@ It is necessary to set the path to the working directory before the altiro3D
 commands can be used. Type:
 
 	cd /opt/altiro3D/bin/
-	source setupvars.sh	
-which defines
-
-	INSTALLDIR=”/opt/altiro3D”
-	export PATH=$INSTALLDIR/bin:${PATH}
-	export LD LIBRARY PATH=$INSTALLDIR/lib:${LD LIBRARY PATH}
+	source setupvars.sh
 -------------------------------------------------
 To uninstall, type
 	sudo dpkg -r altiro3D
