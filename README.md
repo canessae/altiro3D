@@ -39,5 +39,16 @@ then
 
 -------------------------------------------------
 
+file:///opt/altiro3D/bin/examples/sample2.jpg
+
+file:///opt/altiro3D/bin/examples/1-native-Photo-MiDaS-small/2d-native_sample2-g-k.png
+
+![2a-sample2-video](https://user-images.githubusercontent.com/84878752/226045600-1ccf40d2-79ad-4755-b818-ee9b7748bcf1.gif)
+
+
+
+
+
+-------------------------------------------------
 
 ![logo_40](https://user-images.githubusercontent.com/84878752/224785497-60c3ef3c-f341-4485-8194-dcfae28c8bd3.png)
