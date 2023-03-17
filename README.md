@@ -14,10 +14,8 @@ Set the path to the working directory
 
 ## Run examples
 		cd /opt/altiro3D/bin/examples
-then
-		./run_examples-1.sh
-		
-		./run examples-2.sh ...
+		./run_examples-1.sh 
+			...
 
 ## Uninstall
 
