@@ -10,8 +10,7 @@ Install
 
 Set the path to the working directory
 
-		cd /opt/altiro3D/bin/
-		source setupvars.sh
+		source /opt/altiro3D/bin/setupvars.sh
 
 Run examples
 		cd /opt/altiro3D/bin/examples
