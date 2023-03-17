@@ -38,6 +38,9 @@ Set the path to the working directory
 </picture>
 
 
+![trim_ipseek_copy555](https://user-images.githubusercontent.com/84878752/226071241-cadf9821-43be-4db9-badc-709ce0aec0b1.gif)
+
+
 -------------------------------------------------
 
 ![logo_40](https://user-images.githubusercontent.com/84878752/224785497-60c3ef3c-f341-4485-8194-dcfae28c8bd3.png)
