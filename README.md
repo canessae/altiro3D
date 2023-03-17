@@ -23,8 +23,12 @@ Set the path to the working directory
 
 -------------------------------------------------
 2D Photo (input) and 2D Video
+
 ![sample2-red](https://user-images.githubusercontent.com/84878752/226052585-650fcb74-323f-491d-84d1-9f771430f069.jpg)
 ![2a-sample2-video](https://user-images.githubusercontent.com/84878752/226045600-1ccf40d2-79ad-4755-b818-ee9b7748bcf1.gif)
+
+3D Photo
+
 ![2b-native_sample2-g](https://user-images.githubusercontent.com/84878752/226053973-53c25d4a-4bfc-4b2f-a2a0-85cabfae1229.png)
 -------------------------------------------------
 
