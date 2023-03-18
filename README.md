@@ -22,7 +22,7 @@ Set the path to the working directory
 		sudo dpkg -r altiro3D
 
 -------------------------------------------------
-2D Photo (input) and 2D Video
+### 2D Photo (input) and 2D Video
 
 <picture>
   <img alt="3D Photo" src="https://user-images.githubusercontent.com/84878752/226052585-650fcb74-323f-491d-84d1-9f771430f069.jpg" width="261" height="463">
@@ -31,16 +31,17 @@ Set the path to the working directory
   <img alt="3D Photo" src="https://user-images.githubusercontent.com/84878752/226045600-1ccf40d2-79ad-4755-b818-ee9b7748bcf1.gif" width="261" height="463">
 </picture>
 
-3D Photo
+### 3D Photo
 
 <picture>
-  <img alt="3D Photo" src="https://user-images.githubusercontent.com/84878752/226053973-53c25d4a-4bfc-4b2f-a2a0-85cabfae1229.png" width="500" height="600">
+  <img alt="3D Photo" src="https://user-images.githubusercontent.com/84878752/226053973-53c25d4a-4bfc-4b2f-a2a0-85cabfae1229.png" width="512" height="683">
 </picture>
 
+### 3D Video
 
-![trim_ipseek_copy555](https://user-images.githubusercontent.com/84878752/226071241-cadf9821-43be-4db9-badc-709ce0aec0b1.gif)
-
-
+<picture>
+  <img alt="3D Photo" src="https://user-images.githubusercontent.com/84878752/226071241-cadf9821-43be-4db9-badc-709ce0aec0b1.gif" width="512" height="683">
+</picture>
 -------------------------------------------------
 
 ![logo_40](https://user-images.githubusercontent.com/84878752/224785497-60c3ef3c-f341-4485-8194-dcfae28c8bd3.png)
