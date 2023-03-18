@@ -1,5 +1,8 @@
 # altiro3D: 2D-3D image and video conversion library for free-view LCD
 
+
+[altiro3D is a free, extended C++ Library](https://github.com/canessae/altiro3D/releases/)
+
 altiro3D is a free, extended C++ Library developed to reconstruct reality from a given
 single imagine (e.g., .png, .jpg) or flat video (e.g., .mp4). This is done generating a
 light-field (or Native) image -see ["User's Manual"](https://github.com/canessae/altiro3D/blob/main/altiro3D-UserManual-v2.pdf)
