@@ -59,7 +59,7 @@ Set the path to the working directory
 ### 3D Video Display on Looking Glass Portrait
 
 <picture>
-  <img alt="3D Photo" src="https://user-images.githubusercontent.com/84878752/226109704-924bf271-ca22-4e3f-ac9d-0c8af370f1d4.gif" width="512" height="683">
+  <img alt="3D Photo" src="https://user-images.githubusercontent.com/84878752/226109704-924bf271-ca22-4e3f-ac9d-0c8af370f1d4.gif" width="359" height="478">
 </picture>
 
 
