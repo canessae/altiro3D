@@ -2,7 +2,20 @@
 
 altiro3D is a free, extended C++ Library developed to reconstruct reality from a given
 single imagine (e.g., .png, .jpg) or flat video (e.g., .mp4). This is done generating a
-light-field (or Native) image --see "User's Manual"
+light-field (or Native) image --see "User's Manual".
+
+The several altiro3D command lines provide the following features:
+• Create Native (i.e., 3D image) from Photo using MiDaS-small.
+• Create Native from Photo using MiDaS-large.
+• Create Native from a given original camera’s RGB image and depth image.
+• Create Native from a given Quilt (N×M).
+• Create Native from sorted N-views (i.e., sequential set of plain images) stored
+in a given directory.
+• Convert Quilt views to 2D video (.mp4).
+• Convert given 2D video to Native 3D video (.mp4).
+All these forms of Native images/videos consisting of light-fields can be correctly
+displayed on a specific slanted, lenticular screen such as the Looking Glass (LG) Portrait.
+
 
 ## Install
 
