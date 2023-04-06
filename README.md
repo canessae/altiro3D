@@ -1,4 +1,4 @@
-## altiro3D: 2D-to-3D image and video conversion library for free-view LCD (starting from a single imagine or frame)
+### altiro3D: 2D-to-3D image and video conversion library for free-view LCD (starting from a single imagine or frame)
 
 altiro3D is a free, extended C++ Library [(-see releases)](https://github.com/canessae/altiro3D/releases/) developed to reconstruct reality from a given single imagine (e.g., .png, .jpg) or flat video (e.g., .mp4). This is done generating a
 light-field (or Native) image -see ["User's Manual"](https://github.com/canessae/altiro3D/blob/main/altiro3D-UserManual-v2.pdf)
@@ -20,7 +20,7 @@ All these forms of Native images/videos consisting of light-fields can be correc
 displayed on a specific slanted, lenticular screen such as the Looking Glass (LG) Portrait.
 
 
-### Install
+#### Install
 
 		sudo dpkg -i altiro3D-x.x.x-Linux.deb
 
@@ -28,12 +28,12 @@ Set the path to the working directory
 
 		source /opt/altiro3D/bin/setupvars.sh
 
-### Run examples
+#### Run examples
 		cd /opt/altiro3D/bin/examples
 		./run_examples-1.sh 
 			...
 
-### Uninstall
+#### Uninstall
 
 		sudo dpkg -r altiro3D
 
@@ -44,7 +44,7 @@ Set the path to the working directory
   <img alt="3D Photo" src="https://user-images.githubusercontent.com/84878752/226052585-650fcb74-323f-491d-84d1-9f771430f069.jpg" width="132">
 </picture>
 <picture>
-  <img alt="3D Photo" src="https://user-images.githubusercontent.com/84878752/226045600-1ccf40d2-79ad-4755-b818-ee9b7748bcf1.gif" width="132" height="212">
+  <img alt="3D Photo" src="https://user-images.githubusercontent.com/84878752/226045600-1ccf40d2-79ad-4755-b818-ee9b7748bcf1.gif" width="132" height="232">
 </picture>
 
 #### Native 3D Photo
