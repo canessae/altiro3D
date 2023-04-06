@@ -4,7 +4,7 @@ altiro3D is a free, extended C++ Library [(-see releases)](https://github.com/ca
 light-field (or Native) image -see ["User's Manual"](https://github.com/canessae/altiro3D/blob/main/altiro3D-UserManual-v2.pdf)
 
 <picture>
-  <img alt="Visual Abstract" src="https://user-images.githubusercontent.com/84878752/230509598-98cba7fb-59fc-4129-b569-0f15221348ec.png" width="261" height="463">
+  <img alt="Visual Abstract" src="https://user-images.githubusercontent.com/84878752/230509598-98cba7fb-59fc-4129-b569-0f15221348ec.png" width="683" height="385">
 </picture>
 
 The several altiro3D command lines provide the following features:
