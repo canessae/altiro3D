@@ -50,13 +50,13 @@ Set the path to the working directory
 ### Native 3D Photo
 
 <picture>
-  <img alt="3D Photo" src="https://user-images.githubusercontent.com/84878752/226053973-53c25d4a-4bfc-4b2f-a2a0-85cabfae1229.png" width="512" height="683">
+  <img alt="3D Photo" src="https://user-images.githubusercontent.com/84878752/226053973-53c25d4a-4bfc-4b2f-a2a0-85cabfae1229.png" width="348" height="464">
 </picture>
 
 ### Native 3D Video
 
 <picture>
-  <img alt="3D Photo" src="https://user-images.githubusercontent.com/84878752/226071241-cadf9821-43be-4db9-badc-709ce0aec0b1.gif" width="512" height="683">
+  <img alt="3D Photo" src="https://user-images.githubusercontent.com/84878752/226071241-cadf9821-43be-4db9-badc-709ce0aec0b1.gif" width="348" height="464">
 </picture>
 
 ### 3D Video Display on Looking Glass Portrait
@@ -66,4 +66,6 @@ Set the path to the working directory
 </picture>
 
 
-![logo_40](https://user-images.githubusercontent.com/84878752/224785497-60c3ef3c-f341-4485-8194-dcfae28c8bd3.png)
+<picture>
+  <img alt="https://user-images.githubusercontent.com/84878752/224785497-60c3ef3c-f341-4485-8194-dcfae28c8bd3.png" width="120">
+</picture>
