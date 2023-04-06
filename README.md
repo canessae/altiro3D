@@ -47,14 +47,11 @@ Set the path to the working directory
   <img alt="3D Photo" src="https://user-images.githubusercontent.com/84878752/226045600-1ccf40d2-79ad-4755-b818-ee9b7748bcf1.gif" width="132" height="234">
 </picture>
 
-#### Native 3D Photo
+#### Native 3D Photo and Native 3D Video
 
 <picture>
   <img alt="3D Photo" src="https://user-images.githubusercontent.com/84878752/226053973-53c25d4a-4bfc-4b2f-a2a0-85cabfae1229.png" width="182">
 </picture>
-
-#### Native 3D Video
-
 <picture>
   <img alt="3D Photo" src="https://user-images.githubusercontent.com/84878752/226071241-cadf9821-43be-4db9-badc-709ce0aec0b1.gif" width="182">
 </picture>
