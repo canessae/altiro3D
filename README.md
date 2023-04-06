@@ -41,10 +41,10 @@ Set the path to the working directory
 ### 2D Photo (input) and 2D Video
 
 <picture>
-  <img alt="3D Photo" src="https://user-images.githubusercontent.com/84878752/226052585-650fcb74-323f-491d-84d1-9f771430f069.jpg" width="261" height="463">
+  <img alt="3D Photo" src="https://user-images.githubusercontent.com/84878752/226052585-650fcb74-323f-491d-84d1-9f771430f069.jpg" width="131" height="232">
 </picture>
 <picture>
-  <img alt="3D Photo" src="https://user-images.githubusercontent.com/84878752/226045600-1ccf40d2-79ad-4755-b818-ee9b7748bcf1.gif" width="261" height="463">
+  <img alt="3D Photo" src="https://user-images.githubusercontent.com/84878752/226045600-1ccf40d2-79ad-4755-b818-ee9b7748bcf1.gif" width="131" height="232">
 </picture>
 
 ### Native 3D Photo
