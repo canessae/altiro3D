@@ -20,7 +20,7 @@ All these forms of Native images/videos consisting of light-fields can be correc
 displayed on a specific slanted, lenticular screen such as the Looking Glass (LG) Portrait.
 
 
-## Install
+### Install
 
 		sudo dpkg -i altiro3D-x.x.x-Linux.deb
 
@@ -28,41 +28,41 @@ Set the path to the working directory
 
 		source /opt/altiro3D/bin/setupvars.sh
 
-## Run examples
+### Run examples
 		cd /opt/altiro3D/bin/examples
 		./run_examples-1.sh 
 			...
 
-## Uninstall
+### Uninstall
 
 		sudo dpkg -r altiro3D
 
 -------------------------------------------------
-### 2D Photo (input) and 2D Video
+#### 2D Photo (input) and 2D Video
 
 <picture>
-  <img alt="3D Photo" src="https://user-images.githubusercontent.com/84878752/226052585-650fcb74-323f-491d-84d1-9f771430f069.jpg" width="131" height="232">
+  <img alt="3D Photo" src="https://user-images.githubusercontent.com/84878752/226052585-650fcb74-323f-491d-84d1-9f771430f069.jpg" width="132">
 </picture>
 <picture>
-  <img alt="3D Photo" src="https://user-images.githubusercontent.com/84878752/226045600-1ccf40d2-79ad-4755-b818-ee9b7748bcf1.gif" width="131" height="232">
+  <img alt="3D Photo" src="https://user-images.githubusercontent.com/84878752/226045600-1ccf40d2-79ad-4755-b818-ee9b7748bcf1.gif" width="132">
 </picture>
 
-### Native 3D Photo
+#### Native 3D Photo
 
 <picture>
   <img alt="3D Photo" src="https://user-images.githubusercontent.com/84878752/226053973-53c25d4a-4bfc-4b2f-a2a0-85cabfae1229.png" width="182">
 </picture>
 
-### Native 3D Video
+#### Native 3D Video
 
 <picture>
   <img alt="3D Photo" src="https://user-images.githubusercontent.com/84878752/226071241-cadf9821-43be-4db9-badc-709ce0aec0b1.gif" width="182">
 </picture>
 
-### 3D Video Display on Looking Glass Portrait
+#### 3D Video Display on Looking Glass Portrait
 
 <picture>
-  <img alt="3D Photo" src="https://user-images.githubusercontent.com/84878752/226109704-924bf271-ca22-4e3f-ac9d-0c8af370f1d4.gif" width="359" height="478">
+  <img alt="3D Photo" src="https://user-images.githubusercontent.com/84878752/226109704-924bf271-ca22-4e3f-ac9d-0c8af370f1d4.gif" width="200">
 </picture>
 
 ##
