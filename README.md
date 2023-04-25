@@ -70,7 +70,7 @@ Set the path to the working directory
 
 #### Citation
 
-if this software (including any part of it) is useful for you, please cite
+If this software (including any part of it) is useful for you, please cite
 
 ```bibtex
 @misc{altiro3D:
