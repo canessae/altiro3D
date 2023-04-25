@@ -62,22 +62,25 @@ Set the path to the working directory
   <img alt="3D Photo" src="https://user-images.githubusercontent.com/84878752/226109704-924bf271-ca22-4e3f-ac9d-0c8af370f1d4.gif" width="182">
 </picture>
 
-##
-
+####
 <picture>
   <img alt="Logo" src="https://user-images.githubusercontent.com/84878752/224785497-60c3ef3c-f341-4485-8194-dcfae28c8bd3.png" width="80">
 </picture>
-
-#### Citation
+Citation
 
 if this software (including any part of it) is useful for you, please cite our paper
 
 @misc{altiro3D:
   title = {{Scene representation from single image and novel view synthesis}},
+  
   author = {E. Canessa, L. Tenze},
+  
   doi = {10.48550/arXiv.2304.11161},
+  
   url = {https://arxiv.org/abs/2304.11161},
+  
   publisher = {arXiv},
+  
   year = {2023},
 }
 
