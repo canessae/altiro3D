@@ -19,6 +19,10 @@ in a given directory.
 All these forms of Native images/videos consisting of light-fields can be correctly
 displayed on a specific slanted, lenticular screen such as the Looking Glass (LG) Portrait.
 
+#### Binaries
+
+The latest version of the Debian ’altiro3D-x.x.x-Linux.deb’ package can be downloaded from
+ ["Releases"](https://github.com/canessae/altiro3D/releases/) 
 
 #### Install
 
