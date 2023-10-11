@@ -87,3 +87,5 @@ If this software (including any part of it) is useful for you, please cite
   year = {2023},
 }
 ```
+Article to appear (2023) in Springer's International Journal of Information Technology (IJIT).
+
